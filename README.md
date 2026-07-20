@@ -2,6 +2,8 @@
 
 An interactive Python & Data Science web application built using **Streamlit** to explore air quality patterns, meteorological correlations, and real-time AQI metrics based on Central Pollution Control Board (CPCB) India guidelines.
 
+<a href="https://aqianalysiso7-7q9mzkvfbxcqqbzgkbmtem.streamlit.app/">Deployed Project Link</a>
+
 ---
 
 ## 🚀 Features
